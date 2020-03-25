@@ -1,0 +1,17 @@
+body {
+    padding-top: 200px;
+   /* Required padding for .navbar-fixed-top. Change if height of navigation changes. */
+}
+
+.navbar-brand {
+    color: white;	
+}
+
+footer {
+    padding-top: 100px;
+    margin: 50px 0;
+}
+
+.mailto {
+  text-align: center;
+}
